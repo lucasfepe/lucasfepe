@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Lucas Ferrari Pereira, BASc
+Lucas is a skilled software developer with over four years of experience in software development, quality assurance, and product engineering. Proficient in a wide range of technologies, including AWS, Java, React, Python, and SQL, he excels at building scalable solutions and optimizing team workflows. With a background in chemical engineering from the University of Toronto, Lucas brings a unique analytical approach to problem-solving. He is also AWS-certified and passionate about full-stack development, cloud computing, and automation.
